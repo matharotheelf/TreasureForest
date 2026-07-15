@@ -80,6 +80,7 @@ Packages/packages-lock.json linguist-generated
 *.stl                   lfs
 *.ztl                   lfs
 *.unity                 lfs
+*.abc                   lfs
 # Audio
 *.aif                   lfs
 *.aiff                  lfs
